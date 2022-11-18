@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/actualization/static/css/main.0a2a5cac.css",
+    "main.js": "/actualization/static/js/main.145b06ca.js",
+    "static/js/787.343a92ed.chunk.js": "/actualization/static/js/787.343a92ed.chunk.js",
+    "static/media/bg.png": "/actualization/static/media/bg.25109172b4df1273f826.png",
+    "static/media/laptop_big.png": "/actualization/static/media/laptop_big.aa7eab54e93d04fb57e0.png",
+    "static/media/bg_logo.png": "/actualization/static/media/bg_logo.47e27787993a2ac0c795.png",
+    "static/media/laptop_big_125.png": "/actualization/static/media/laptop_big_125.6ce7d2293d638478ce16.png",
+    "static/media/group_3_larger.png": "/actualization/static/media/group_3_larger.e698bcf2ec7e1e31c799.png",
+    "static/media/group_2_125.png": "/actualization/static/media/group_2_125.5cb440cee38e50a45d75.png",
+    "static/media/mobile_big.png": "/actualization/static/media/mobile_big.befbece0d94116bfeb6c.png",
+    "static/media/mobile_big_125.png": "/actualization/static/media/mobile_big_125.9b93b855f75694969470.png",
+    "static/media/group_2.png": "/actualization/static/media/group_2.685aed903ff1cd592010.png",
+    "static/media/group_2_1440.png": "/actualization/static/media/group_2_1440.c466e003050e0af9a566.png",
+    "static/media/mobile_1440.png": "/actualization/static/media/mobile_1440.86368b091bb3d60b2e67.png",
+    "static/media/laptop_prev_1440.png": "/actualization/static/media/laptop_prev_1440.93112b2d49853fd22d4b.png",
+    "static/media/laptop_1366.png": "/actualization/static/media/laptop_1366.e847d6721fb1c71280bc.png",
+    "static/media/mobile_1366.png": "/actualization/static/media/mobile_1366.e7224a2ddd5e741da2a5.png",
+    "static/media/Gear.svg": "/actualization/static/media/Gear.23679e011fad40da021e584e5316a474.svg",
+    "static/media/Mobile.svg": "/actualization/static/media/Mobile.90b87a2be5a84eb1d5ff5eeae64b2011.svg",
+    "static/media/Diary.svg": "/actualization/static/media/Diary.e99d1401785b2c305ab5dceb562017d6.svg",
+    "static/media/Laptop.svg": "/actualization/static/media/Laptop.03e0832b23913f4170ea59a09240930d.svg",
+    "static/media/Magnifying_glass.svg": "/actualization/static/media/Magnifying_glass.b1f7e119190e92b8502b8a0e5a276a02.svg",
+    "static/media/Stats.svg": "/actualization/static/media/Stats.2100cf8b035d82c6ec0f418d5c7d830a.svg",
+    "index.html": "/actualization/index.html",
+    "static/media/Mouse.svg": "/actualization/static/media/Mouse.2229eb0605ebc54fa807b98b59eea5a4.svg",
+    "static/media/Tablet.svg": "/actualization/static/media/Tablet.9659721c666e57e027b0bfeebce80d94.svg",
+    "main.0a2a5cac.css.map": "/actualization/static/css/main.0a2a5cac.css.map",
+    "main.145b06ca.js.map": "/actualization/static/js/main.145b06ca.js.map",
+    "787.343a92ed.chunk.js.map": "/actualization/static/js/787.343a92ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a2a5cac.css",
+    "static/js/main.145b06ca.js"
+  ]
+}

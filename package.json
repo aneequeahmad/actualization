@@ -1,0 +1,39 @@
+{
+  "name": "actualization",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://ahtesham127.github.io/actualization",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@emailjs/browser": "^3.6.2",
+    "gh-pages": "^4.0.0",
+    "pushin": "^5.1.1",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-fullpage": "^0.1.19",
+    "react-scripts": "^5.0.1",
+    "save-dev": "^0.0.1-security",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

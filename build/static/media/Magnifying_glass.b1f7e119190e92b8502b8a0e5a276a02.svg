@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720.719" height="446.072" viewBox="0 0 720.719 446.072">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        font-size: 48px;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+        letter-spacing: 0.1em;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Magnifying_glass" data-name="Magnifying glass" transform="translate(-438.761 -214.125)">
+    <g id="Mag_Glass" data-name="Mag Glass" transform="translate(-19.701 -297.91)">
+      <g id="Group_17" data-name="Group 17" transform="translate(459.56 513.035)">
+        <g id="Group_16" data-name="Group 16" transform="translate(0 0)">
+          <path id="Path_36" data-name="Path 36" class="cls-1" d="M816.82,711.989,477.217,836.8a26.82,26.82,0,0,0-15.241,36.307l1.063,2.337A24.933,24.933,0,0,0,496.2,887.75L828.907,733.673a110.569,110.569,0,0,1-6.121-9.908C819.821,718.311,816.82,711.989,816.82,711.989Z" transform="translate(-459.56 -446.062)"/>
+          <ellipse id="Ellipse_15" data-name="Ellipse 15" class="cls-2" cx="189.681" cy="186.562" rx="189.681" ry="186.562" transform="translate(339.26)"/>
+          <ellipse id="Ellipse_14" data-name="Ellipse 14" class="cls-1" cx="169.003" cy="165.884" rx="169.003" ry="165.884" transform="translate(360.497 21.237)"/>
+          <path id="Path_38" data-name="Path 38" class="cls-3" d="M722.692,719.523a.669.669,0,0,1-.663-.584c-.568-4.456-.971-9-1.193-13.5a.67.67,0,0,1,.634-.7.652.652,0,0,1,.7.635c.221,4.467.619,8.973,1.183,13.4a.669.669,0,0,1-.577.747A.614.614,0,0,1,722.692,719.523Zm1.321-52.831a.728.728,0,0,1-.119-.009.67.67,0,0,1-.54-.777,173.364,173.364,0,0,1,10.344-35.4,177.142,177.142,0,0,1,65.091-79.464,182.72,182.72,0,0,1,198.259-3.319.669.669,0,1,1-.711,1.132,181.383,181.383,0,0,0-196.8,3.3,175.816,175.816,0,0,0-64.6,78.861v0a172.036,172.036,0,0,0-10.262,35.125A.67.67,0,0,1,724.013,666.692Z" transform="translate(-371.53 -512.416)"/>
+          <path id="Path_41" data-name="Path 41" class="cls-4" d="M482.205,852.579a.657.657,0,0,1-.218-.037c-10.721-3.706-16.341-9.831-16.7-18.2a20.213,20.213,0,0,1,13.193-19.47l42.057-16.4a.668.668,0,1,1,.485,1.245l-42.057,16.4a18.881,18.881,0,0,0-12.343,18.167c.337,7.767,5.655,13.486,15.806,16.995a.669.669,0,0,1-.219,1.3Z" transform="translate(-457.638 -416.415)"/>
+          <path id="Path_42" data-name="Path 42" class="cls-4" d="M516.647,796.518a.669.669,0,0,1-.242-1.292l5.451-2.127a.669.669,0,1,1,.485,1.246l-5.451,2.126A.646.646,0,0,1,516.647,796.518Z" transform="translate(-440.551 -418.225)"/>
+        </g>
+      </g>
+    </g>
+    <text id="Optimize" class="cls-5" transform="translate(844 383)"><tspan x="0" y="0">Optimize</tspan></text>
+    <text id="From_Web_Apps_to_Mobile_we_develop_" data-name="From Web Apps to Mobile, we develop " class="cls-6" transform="translate(850 415)"><tspan x="0" y="17">Improving on your current </tspan><tspan x="0" y="39">systems</tspan></text>
+  </g>
+</svg>

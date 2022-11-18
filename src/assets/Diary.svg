@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="599.615" viewBox="0 0 360 599.615">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 18px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        font-size: 42px;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+        letter-spacing: 0.108em;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#5a5a5a"/>
+    </radialGradient>
+  </defs>
+  <g id="Diary" transform="translate(-790.433 -153.509)">
+    <g id="Rectangle_13" data-name="Rectangle 13" class="cls-1" transform="translate(790.433 173.123)">
+      <rect class="cls-6" width="360" height="580"/>
+      <rect class="cls-7" x="1" y="1" width="358" height="578"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" class="cls-2" transform="translate(823.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" class="cls-2" transform="translate(868.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-2" transform="translate(913.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" class="cls-2" transform="translate(958.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" class="cls-2" transform="translate(1003.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <g id="Ellipse_10" data-name="Ellipse 10" class="cls-2" transform="translate(1048.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <g id="Ellipse_11" data-name="Ellipse 11" class="cls-2" transform="translate(1093.433 193.123)">
+      <circle class="cls-6" cx="12.5" cy="12.5" r="12.5"/>
+      <circle class="cls-7" cx="12.5" cy="12.5" r="11.5"/>
+    </g>
+    <path id="Path_6" data-name="Path 6" class="cls-3" d="M835.2,204.912s6.628-50.661,20.007-50.614c5.887.02,8.2,5.1,9.91,8.839a44.615,44.615,0,0,1,2.606,9.63" transform="translate(0.714 0.711)"/>
+    <path id="Path_7" data-name="Path 7" class="cls-3" d="M835.2,204.912s6.628-50.661,20.007-50.614c5.887.02,8.2,5.1,9.91,8.839a44.615,44.615,0,0,1,2.606,9.63" transform="translate(45.714 0.711)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-3" d="M835.2,204.912s6.628-50.661,20.007-50.614c5.887.02,8.2,5.1,9.91,8.839a44.615,44.615,0,0,1,2.606,9.63" transform="translate(90.714 0.711)"/>
+    <path id="Path_9" data-name="Path 9" class="cls-3" d="M835.2,204.912s6.628-50.661,20.007-50.614c5.887.02,8.2,5.1,9.91,8.839a44.615,44.615,0,0,1,2.606,9.63" transform="translate(135.714 0.711)"/>
+    <path id="Path_10" data-name="Path 10" class="cls-3" d="M835.2,204.912s6.628-50.661,20.007-50.614c5.887.02,8.2,5.1,9.91,8.839a44.615,44.615,0,0,1,2.606,9.63" transform="translate(180.714 0.711)"/>
+    <path id="Path_11" data-name="Path 11" class="cls-3" d="M835.2,204.912s6.628-50.661,20.007-50.614c5.887.02,8.2,5.1,9.91,8.839a44.615,44.615,0,0,1,2.606,9.63" transform="translate(225.713 0.711)"/>
+    <path id="Path_12" data-name="Path 12" class="cls-3" d="M835.2,204.912s5.848-50.661,17.654-50.614c5.195.02,7.233,5.1,8.744,8.839a49.49,49.49,0,0,1,2.3,9.63" transform="translate(270.736 0.711)"/>
+    <text id="Taking_into_account_your_business_needs_and_the_needs_of_your_users_we_create_digital_products_that_help_you_grow." data-name="Taking into account your 
+business needs and the needs 
+of your users, we create digital 
+products that help you grow." class="cls-4" transform="translate(825.433 344.066)"><tspan x="0" y="0">Taking into account your </tspan><tspan x="0" y="22">business needs and the needs </tspan><tspan x="0" y="44">of your users, we create digital </tspan><tspan x="0" y="66">products that help you grow.</tspan></text>
+    <text id="Strategize" class="cls-5" transform="translate(823.433 296.066)"><tspan x="0" y="0">Strategize</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="58" viewBox="0 0 39 58">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        stroke-width: 3.5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Mouse" transform="translate(-940 -980.447)">
+    <g id="Rectangle_6" data-name="Rectangle 6" class="cls-1" transform="translate(940 980.447)">
+      <rect class="cls-3" width="39" height="58" rx="19.5"/>
+      <rect class="cls-4" x="1.75" y="1.75" width="35.5" height="54.5" rx="17.75"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" class="cls-2" transform="translate(957 990.447)">
+      <rect class="cls-3" width="5" height="11" rx="2.5"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="4" height="10" rx="2"/>
+    </g>
+  </g>
+</svg>
